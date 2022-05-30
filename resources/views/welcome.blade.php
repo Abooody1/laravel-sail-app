@@ -5,7 +5,7 @@
   </head>
 
   <body>
-     <h1>This is Production Environment- Abd Alghafoor Haj Aref</h1>
+     <h1>This is Staging Environment- Abd Alghafoor Haj Aref</h1>
 </form>
 
 
